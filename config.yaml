@@ -1,0 +1,11 @@
+samples:
+    - CV2_S2
+    - CV4_S4
+    - CV5_S5
+
+threads: 8
+
+trimming:
+    quality: 20
+    length: 50
+
